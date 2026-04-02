@@ -32,3 +32,13 @@
 
 ## 4. Conclusion
 The setup was successfully completed, and all tools are working correctly.
+your-repo-root/
+├── README.md (your existing file – leave it)
+├── fetch_transcripts.py   ← new script (free method)
+└── research/
+    ├── README.md
+    ├── sources.md
+    ├── linkedin-posts/     (empty folder for future use)
+    ├── youtube-transcripts/ (will be populated by script)
+    └── other/
+        └── cross-expert-patterns.md
